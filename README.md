@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF Banner Animasi -->
-  <img src="./assets/2.gif" width="100%" alt="Header Banner" />
+  <img src="./assets/3.gif" width="100%" alt="Header Banner" />
 
   <br /><br />
 

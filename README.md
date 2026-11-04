@@ -6,7 +6,7 @@
 
   <h1>Hi there, I'm Ahmad Fikram Salman 👋</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+System+Student+at+UMN;Machine+Learning;Big+Data+Analytics+%26+AI+Antusias;Bisnis+Intel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+System+Student+at+UMN;Machine+Learning;Big+Data+Analytics+%26+AI+enthusiast;Bisnis+Intel" alt="Typing SVG" />
   </a>
 </div>
   <p align="center">

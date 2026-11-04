@@ -72,12 +72,3 @@
 | **Visual Programming** | Software Development | Visual Programming Tools | [Szyken/Visual-Programming](https://github.com/Szyken/Visual-Programming) |
 
 ---
-
-### 📈 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamzZ110&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=kamzZ110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamzZ110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>

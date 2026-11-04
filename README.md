@@ -20,10 +20,10 @@
 ---
 
 ### 📌 About Me
-- 🎓 Mahasiswa **Sistem Informasi** dengan peminatan **Big Data Analytics**.
-- 🔭 Berfokus pada arsitektur data (*data pipeline*), rekayasa data (*data engineering*), serta penerapan model *Machine Learning / AI*.
-- 💡 Senang mengeksplorasi automasi pengolahan data mentah menjadi *actionable insights*.
-- 🤝 Terbuka untuk kolaborasi proyek *data analytics*, *predictive modeling*, maupun riset AI.
+- 🎓 Mahasiswa **Sistem Informasi** di **Universitas Multimedia Nusantara (UMN)**.
+- 🔭 Berfokus pada bidang **Machine Learning**, **Big Data Analytics**, dan implementasi praktis **AI**.
+- 📊 Mengembangkan analisis data dan dashboard berbasis **Business Intelligence** untuk kebutuhan pengambilan keputusan.
+- 🤝 Terbuka untuk kolaborasi proyek *data pipeline*, *predictive modeling*, maupun riset terapan.
 
 ---
 
@@ -60,6 +60,37 @@
 </p>
 
 ---
-**Connect With Me**
-- 📸Instagram: https://www.instagram.com/ahmdkam._?obrf=MXU0dnhob2V4dXhpdg==
-- 🤝Linkedin : linkedin.com/in/ahmad-fikram-salman-7a8a18324
+
+### 📂 Featured & Team Projects
+
+| Project | Kategori | Ringkasan | Link |
+| :--- | :--- | :--- | :--- |
+| **Obesity Classification** | ML / AI | Klasifikasi tingkat obesitas berbasis model machine learning dan data kesehatan. | [Herjuna3008/Obesity-Classification](https://github.com/Herjuna3008/Obesity-Classification) |
+| **Cocycle** | App / System | Platform kolaboratif terintegrasi. | [kamzZ110/Cocycle](https://github.com/kamzZ110/Cocycle) |
+| **Web Mentalux** | Web Development | Aplikasi web interaktif untuk layanan kesehatan mental. | [Szyken/web-Mentalux](https://github.com/Szyken/web-Mentalux) |
+| **Visual Programming** | Software Dev | Implementasi sistem pemrograman visual berbasis tim. | [Szyken/Visual-Programming](https://github.com/Szyken/Visual-Programming) |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamzZ110&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br /><br />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kamzZ110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamzZ110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmad-fikram-salman-7a8a18324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ahmdkam._?obrf=MXU0dnhob2V4dXhpdg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
